@@ -9,7 +9,7 @@
 
 ## Project Description
 
-This is a project exercise that can be found in the complete web development bootcamp taught by Angela Yu. It is a comprehensive course which teaches web application development through videos and exercises. This exercises is there to demostrate one's taught knowledge of html and css; specfically use of div elements, css colours, and the box model.
+This is a project exercise that can be found in the complete web development bootcamp taught by Angela Yu. It is a comprehensive course which teaches web application development through videos and exercises. The exercises are there to demostrate one's taught knowledge of html and css; specfically use of div elements, css colours, and the box model.
 The resulting application can be viewed at this address: https://ibrahimali-git.github.io/Motivation-Meme-Project/
 
 ## How to install and run the Program:
