@@ -9,16 +9,14 @@
 
 ## Project Description
 
-For this module's assignment I was tasked with building a console-based vehicle rental application. This was to be done using the advance programming techniques I was taught in the lessons and given further instruction on in the tutorials. The resulting application is to allow users to interact with the application and add vehicles to the system, remove them, search for them, and sort them by registration number and cost per day
-
+This is a project exercise that can be found in the complete web development bootcamp taught by Angela Yu. It is a comprehensive course which teaches web application development through videos and exercises. This exercises is there to demostrate one's taught knowledge of html and css; specfically use of div elements, css colours, and the box model.
 The resulting application can be viewed at this address: https://ibrahimali-git.github.io/Motivation-Meme-Project/
 
 ## How to install and run the Program:
 
-1. First ensure that C++ is installed on one's computer. 
-2. Next ensure that Visual Studio is installed on one's computer.
-3. Start Visual Studio and clone the project in it.
-4. Run main.cpp
+1. Clone the project
+2. Open it in VS Code
+3. Run the index.html file
 
 ## References: 
 
